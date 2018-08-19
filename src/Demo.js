@@ -5,9 +5,9 @@ import './Demo.css';
 class Demo extends Component {
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <h1 className="App-title">React Reusable Components</h1>
+      <div className="components">
+        <header>
+          <h1 className="project-title">React Reusable Components</h1>
         </header>
 
         Demo coming soon

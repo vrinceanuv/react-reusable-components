@@ -6,6 +6,7 @@ import Select from './Select/Select';
 import Textarea from './Textarea/Textarea';
 
 export {
+  Checkbox,
   Date,
   Input,
   Radio,
