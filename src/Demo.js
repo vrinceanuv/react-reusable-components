@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import {Checkbox, Date, Input, Radio, Select, Textarea} from './components';
 import './Demo.css';
 
 class Demo extends Component {
@@ -8,9 +9,8 @@ class Demo extends Component {
         <header className="App-header">
           <h1 className="App-title">React Reusable Components</h1>
         </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
+
+        Demo coming soon
       </div>
     );
   }
