@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {Checkbox, Date, Input, Radio, Select, Textarea} from './components';
+import {Checkbox, Date, Input, Radio, Select, Textarea, Card} from './components';
 import './Demo.css';
 
 class Demo extends Component {
@@ -10,7 +10,7 @@ class Demo extends Component {
           <h1 className="project-title">React Reusable Components</h1>
         </header>
 
-        Demo coming soon
+        <Card />
       </div>
     );
   }
